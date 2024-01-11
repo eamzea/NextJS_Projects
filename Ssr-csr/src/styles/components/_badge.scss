@@ -1,0 +1,11 @@
+.custom-badge {
+  &__container {
+    max-width: 7rem;
+  }
+
+  &__icon {
+    width: 3rem;
+    height: 3rem;
+    transform: translate(-50%, 50%);
+  }
+}

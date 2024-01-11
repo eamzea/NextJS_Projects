@@ -1,0 +1,4 @@
+ApolloGraphQLServer/.env
+.DS_Store
+ApolloGraphQLServer/node_modules
+ApolloGraphQLServer/prettier.config.js
